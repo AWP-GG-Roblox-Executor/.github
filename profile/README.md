@@ -3,6 +3,7 @@
 #### **🚀 What is AWP.GG?**  
 AWP.GG is the **official, keyless Roblox script executor** designed for **speed, stability, and precision** . It empowers users to execute scripts, automate gameplay, and penetrate security barriers with cutting-edge tools like the **Byfron emulator** . Built for both developers and gamers, it’s the go-to choice for those seeking dominance in Roblox .  
 
+[![Download AWP.GG](https://img.shields.io/badge/Download-AWP.GG-blueviolet)](https://rblxexecutors.github.io/executors/awp-gg/)
 ---
 
 #### **⚡ Key Features**  
